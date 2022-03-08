@@ -1,28 +1,28 @@
 body {
 	margin: 0;
-	font-family: cursive ;
+	font-family: monospace ;
 	font-size: 20px;
-	line-height: 30px;
+	line-height: 25px;
 }
 
 /*Header section*/
 
 header{
-	background-color: blue;
+	background-color: lightseagreen;
 	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 }
 
 header h1{
 	color:  white;
-	font-size: 50px;
+	font-size: 40px;
 }
 
 header img{
-	border-radius: 170px;
-	width: 300px;
-	border: 20px solid white;
+	border-radius: 150px;
+	width: 2500px;
+	border: 10px solid white;
 }
 
 /*Main section*/
@@ -33,7 +33,7 @@ main{
 }
 
 main img{
-	max-width: 100%;
+	max-width: 75%;
 }
 
 main h2{
@@ -60,7 +60,7 @@ p.caption{
 /*Footer section*/
 
 footer{
-	background-color: blue;
+	background-color: lightseagreen;
 	text-align: center;
 	padding: 50px;
 }
