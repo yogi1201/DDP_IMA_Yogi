@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-	font-family: monospace ;
+	font-family: 'League Spartan', sans-serif;
 	font-size: 20px;
 	line-height: 30px;
 }
@@ -16,13 +16,13 @@ header{
 
 header h1{
 	color:  white;
-	font-size: 40px;
+	font-size: 50px;
 }
 
 header img{
-	border-radius: 150px;
-	width: 250px;
-	border: 15px solid white;
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid white;
 }
 
 /*Main section*/
