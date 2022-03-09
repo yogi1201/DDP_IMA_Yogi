@@ -27,17 +27,15 @@ header img{
 
 /*Main section*/
 main{
-	background: #EEEEEE;
+	max-width: 800px;
 	margin: 0 auto;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding: 0 20px;
 }
 
 main img{
-	margin-left:auto;
-	margin-right:auto;
-	display:block;
-	
+	max-width: 100%;
+}
+
 main h2{
 	font-size: 30px;
 	margin: 40px 0 10px;
@@ -58,14 +56,14 @@ p.caption{
 	font-style: italic;
 	font-size: 20px;
 }
+
 /*Footer section*/
 
 footer{
-	background-color:#1C658C;
+	background-color: black;
 	text-align: center;
 	padding: 50px;
 }
-
 
 footer p{
 	margin: 0;
