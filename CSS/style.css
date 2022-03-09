@@ -61,11 +61,10 @@ p.caption{
 /*Footer section*/
 
 footer{
-	background-color:#1C658C;
+	background-color: black;
 	text-align: center;
 	padding: 50px;
 }
-
 
 footer p{
 	margin: 0;
@@ -80,4 +79,5 @@ footer a{
 footer a:hover{
 	background-color: white;
 	color: black;
+}
 }
