@@ -1,17 +1,17 @@
 body {
 	margin: 0;
-	font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+	font-family: 'League Spartan', sans-serif;
 	font-size: 20px;
 	line-height: 30px;
 }
+
 /*Header section*/
 
 header{
-	background: #1C658C;
+	background-color: black;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
-
 }
 
 header h1{
