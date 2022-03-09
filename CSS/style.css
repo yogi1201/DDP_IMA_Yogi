@@ -1,17 +1,17 @@
 body {
 	margin: 0;
-	font-family: 'League Spartan', sans-serif;
+	font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
 	font-size: 20px;
 	line-height: 30px;
 }
-
 /*Header section*/
 
 header{
-	background-color: black;
+	background: #1C658C;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
+
 }
 
 header h1{
@@ -27,15 +27,17 @@ header img{
 
 /*Main section*/
 main{
-	max-width: 800px;
+	background: #EEEEEE;
 	margin: 0 auto;
-	padding: 0 20px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 main img{
-	max-width: 100%;
-}
-
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	
 main h2{
 	font-size: 30px;
 	margin: 40px 0 10px;
@@ -56,14 +58,14 @@ p.caption{
 	font-style: italic;
 	font-size: 20px;
 }
-
 /*Footer section*/
 
 footer{
-	background-color: black;
+	background-color:#1C658C;
 	text-align: center;
 	padding: 50px;
 }
+
 
 footer p{
 	margin: 0;
